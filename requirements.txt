@@ -1,5 +1,4 @@
 backoff==2.2.1
 jsonpickle==3.0.2
 jsonschema==4.19.0
-requests>=2.0
 simplejson==3.19.1
