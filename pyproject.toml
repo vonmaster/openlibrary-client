@@ -25,7 +25,6 @@ classifiers = [
 ]
 dependencies = [
     "backoff==2.2.1",
-    "internetarchive==3.5.0",
     "jsonschema==4.19.0",
     "simplejson==3.19.1",
 ]
